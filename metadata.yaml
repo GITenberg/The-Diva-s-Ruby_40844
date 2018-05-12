@@ -1,0 +1,39 @@
+_repo: The-Diva-s-Ruby_40844
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+covers:
+- cover_type: archival
+  image_path: 40844-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: ''
+gutenberg_issued: '2012-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singers -- Fiction'
+- !lcsh 'Rubies -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+title: The Diva's Ruby
+url: http://www.gutenberg.org/ebooks/40844
